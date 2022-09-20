@@ -1,0 +1,18 @@
+﻿  templatefunc.cpp
+C:\C++\0823\templatefunc.cpp(6,11): warning C4244: 'return': 'T'에서 'const R'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=double
+          ]
+          and
+          [
+              R=int
+          ]
+C:\C++\0823\templatefunc.cpp(31): message : 컴파일되는 함수 템플릿 인스턴스화 'const R add<int,double,char>(const T &,const U &)'에 대한 참조를 확인하세요.
+          with
+          [
+              R=int,
+              T=double,
+              U=char
+          ]
+  0823.vcxproj -> C:\C++\0823\Debug\0823.exe
