@@ -1,0 +1,4 @@
+﻿  noexceptoperator.cpp
+C:\C++\0831\noexceptoperator.cpp(11,1): warning C4297: 'f1': 함수는 예외를 Throw하지 않도록 지정되었으나 예외를 Throw했습니다.
+C:\C++\0831\noexceptoperator.cpp(11,1): message : 함수에서 __declspec(nothrow), throw(), noexcept(true) 또는 noexcept를 지정했습니다.
+  0831.vcxproj -> C:\C++\0831\Debug\0831.exe
